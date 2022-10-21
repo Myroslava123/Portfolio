@@ -1,0 +1,13 @@
+h1,h3,h2 {
+    color:black;
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    text-align: center;
+}
+h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+}
+body{
+    background-color: aquamarine;
+}
